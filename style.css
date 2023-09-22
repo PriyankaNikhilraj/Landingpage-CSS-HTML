@@ -1,0 +1,72 @@
+.container{
+    padding:0;
+    background-color: white;
+}
+.sec1{
+    background-color: black;
+    color:white;
+    text-align: center;
+    margin: 0px;
+    padding: 20px;
+}
+.img1{
+    background-image: url('images/background.avif');
+
+}
+.head1{
+color: white;
+padding-left: 9%;
+padding-bottom: 20%;
+padding-top: 2%;
+}
+.col-1{
+    float: left;
+    margin-top: 58px;
+    margin-left: 16%;
+}
+.col-1:hover{
+    background-color:palevioletred;
+}
+.col-2{
+    float: left;
+    margin-left: 90px;
+    margin-top: 60px;
+}
+.col-2:hover{
+    background-color: palevioletred;
+}
+.col-3{
+margin-left: 65%;
+padding-top: 5%;
+margin-right: 17%;
+}
+.col-3:hover{
+    background-color: palevioletred;
+}
+.col-4{
+    float: left;
+    background-color: green;
+    padding-left: 8%;
+    padding-bottom: 24PX;
+    padding-right: 22%;
+    padding-top: 4%;
+}
+.col-5{
+    background-color: brown;
+    margin-left: 51%;
+    padding: 4%;
+    
+}
+span
+{
+    font-size: 100px;
+}
+.row2{
+margin-top: 60px;
+}
+.foot{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 2%;
+}
